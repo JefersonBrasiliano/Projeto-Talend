@@ -22,10 +22,16 @@ Após o tratamento, o fluxo de dados é dividido em dois caminhos distintos. Um 
 
 <b>O principal objetivo deste job é</b> automatizar o processamento de dados, garantindo:
 
-Organização e padronização das informações;
+- Organização e padronização das informações;
 
-Geração de arquivos em formatos diferentes;
+- Geração de arquivos em formatos diferentes;
 
-Redução de erros manuais;
+- Redução de erros manuais;
 
-Maior controle e confiabilidade no processamento.
+- Maior controle e confiabilidade no processamento.
+<p></p>
+<b>O video abaixo demonstra o job sendo executado pelo Agendador de Taferas do Windows.</b>
+<p></p>
+
+https://github.com/user-attachments/assets/d99cc6b9-9e35-4b9b-850d-87ea81a5d671
+
